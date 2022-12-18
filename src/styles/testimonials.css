@@ -1,0 +1,49 @@
+.sliders {
+  width: 600px;
+}
+.swiper-slide {
+  background: #fff;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.slide-img-01 img,
+.slide-img-02 img,
+.slide-img-03 img {
+    width: 100%;
+}
+
+
+.slide-img-01 {
+    background: #d7d5e1;
+
+}
+.slide-img-02{
+    background: #e2e0f2;
+    
+}
+.slide-img-03 {
+    background: #b8b5c3;
+    
+}
+
+.slide-img-01,.slide-img-02,.slide-img-03{
+    border-radius: .8rem;
+    margin-bottom: 40px;
+}
+
+.slide__item h4{
+    margin-bottom: 10px;
+    color: var(--heading-color);
+}
+
+.slide__item p{
+    color: var(--heading-color);
+    line-height: 28px;
+}
+
+.sliders h2{
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+    text-align: center  ;
+}

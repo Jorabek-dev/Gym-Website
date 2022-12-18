@@ -1,0 +1,27 @@
+.start__wrapper{
+    display: flex;
+    justify-content: space-between ;
+    align-items:center;
+    column-gap: 3rem
+}
+
+.start__img,.start-container{
+  width: 50%;
+}
+
+
+.start__img img{
+    width: 100%;
+}
+
+.start-container h2{
+ font-size: 2.5rem;
+ margin-bottom: 20px;
+}
+
+.start-container p{
+  color: var(--heading-color);
+  font-size: 1.1rem;
+  line-height: 28px;
+  margin-bottom: 50px;
+}
